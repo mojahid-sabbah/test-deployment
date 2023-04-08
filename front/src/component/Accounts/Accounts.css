@@ -1,0 +1,17 @@
+
+.Header{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cards{
+    background-color: #4ca792;
+    text-align: center;
+     max-width: 500%;
+    margin: 20px;
+    padding: 20px;
+    color: #fff;
+    border-radius: 30px;
+}
